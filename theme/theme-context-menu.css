@@ -1,0 +1,14 @@
+/* file already exist - code is in addition to */
+
+/* remove excess items from the context menu */
+
+/* ultima.contextmenu.declutter */
+
+/*add more*/
+#context-selectall,
+#context-sep-screenshots,
+#context-sendimage,
+#context-setDesktopBackground,
+#context-sep-setbackground {
+  display: none !important; 
+}
