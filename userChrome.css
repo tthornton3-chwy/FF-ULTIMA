@@ -1,12 +1,3 @@
-/* MPL 2.0 https://github.com/soulhotel/FF-ULTIMA/blob/main/LICENSE */
-
-/*  
-Change tab size?
-Change autohide option?
-Want to use sidebery instead? + More.
-Come to the modification page: https://github.com/soulhotel/FF-ULTIMA/blob/main/doc/Modification.md
-*/
-
 @import url(theme/function-safeguard.css);
 @import url(theme/function-sidebery-autohide.css);
 @import url(theme/function-tabs-autohide-ii.css);
