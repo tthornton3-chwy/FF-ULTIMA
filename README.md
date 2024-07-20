@@ -23,10 +23,14 @@ https://github.com/soulhotel/FF-ULTIMA/assets/155501797/70c10229-5224-4b71-94f4-
 function-tabs-always-ontop.css
 ```
 
-- Add user preference `ultima.tabs.always.ontop`.
+- ~~Add user preference `ultima.tabs.always.ontop`.~~
+- Add user preference `ultima.tabs.vertical`.
 - Allow the user to keep default tab layout.
+- Tabs on top instead of vertical.
 - Disabling vertical tabs configuration.
-- View ffultima2.0 folder for progress status.
+- Almost there.
+
+![2024-07-20_00-24](https://github.com/user-attachments/assets/5eec1e15-0dc7-4880-80cf-98938e521c06)
 
 ```
 theme-context-menu.css
