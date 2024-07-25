@@ -1,6 +1,6 @@
 # <p align="center"> FF ULTIMA... </p>
 
-###### <p align="center">. . . Experimental branch. To reference and document experimental features and more. </p>
+###### <p align="center">. . . Experimental branch, to reference experimental features, pre-implementations, and extras.</p>
 
 ## Lookup API
 
