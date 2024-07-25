@@ -2,10 +2,11 @@
 
 ###### <p align="center">. . . Experimental branch, to reference experimental features, pre-implementations, and extras.</p>
 
-## Lookup API
+## API & Size
 
 https://api.github.com/repos/soulhotel/FF-ULTIMA
 ```
+cloc output (07.25.2024 - still decreasing)
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
@@ -17,6 +18,7 @@ JSON                             1              0              0              1
 -------------------------------------------------------------------------------
 SUM:                            64           1502           1070           6912
 -------------------------------------------------------------------------------
+
 ```
 
 ## Experimental Features
