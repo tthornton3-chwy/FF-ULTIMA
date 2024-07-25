@@ -6,7 +6,7 @@
 
 https://api.github.com/repos/soulhotel/FF-ULTIMA
 ```
-cloc output (07.25.2024 - still decreasing)
+cloc output (v1.8.5 - 07.25.2024)
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
